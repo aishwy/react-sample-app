@@ -1,0 +1,41 @@
+.red {
+    color: red;
+  }
+  
+  .bold {
+    font-weight: bold;
+  }
+  
+  .fsz30 {
+    font-size: 30px;
+  }
+.green {
+  color: green;
+}
+ button.green {
+  cursor: pointer;
+  padding: 20px;
+  margin: 10px;
+  font-size: 15px;
+    background-color: green;
+    color: wheat;
+  }
+  
+ button.green :hover {
+    background-color: lightgreen;
+    color: saddlebrown;
+  }
+  
+ button.red {
+  cursor: pointer;
+  padding: 20px;
+  margin: 10px;
+  font-size: 15px;
+    color: wheat;
+    background-color: red;
+  }
+  
+button.red:hover {
+    color: saddlebrown;
+    background-color: salmon;
+  }
